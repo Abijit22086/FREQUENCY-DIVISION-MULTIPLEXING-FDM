@@ -83,10 +83,9 @@ end
 
 
 ### GRAPH:
-
-
-
-
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/91c12e83-d0bb-410c-aa46-212fb8685b13" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/2f09c4b1-0c17-4ee5-aee2-fe913114396e" />
+<img width="1280" height="800" alt="image" src="https://github.com/user-attachments/assets/97faa143-e509-4a4e-9a39-0d21e5794ed2" />
 
 ### RESULT:
 The program successfully simulates FDM and demultiplexing for multiple frequency signals with filtering to recover original signals accurately in Scilab.
