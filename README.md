@@ -80,6 +80,7 @@ end
 ```
 ### TABULATION:
 
+<img width="871" height="1280" alt="image" src="https://github.com/user-attachments/assets/d84ee05e-bf94-4178-8bc3-4d9162b52acf" />
 
 
 ### GRAPH:
